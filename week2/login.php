@@ -33,8 +33,8 @@
     }
     else {
         echo "There is no account registered with username \"" . $username . "\"";
-        // Add a "Back" button
-        // Add a "Register" button
+        echo "<br/>";
+        echo "<button onclick=\"window.history.back()\">Back</button>";
     }
     
     // Notice we are expecting user password to be encrypted using MD5 algorithm

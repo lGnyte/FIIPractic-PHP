@@ -1,0 +1,5 @@
+sa ne uitam pe layouts cum sa facem
+putem incepe proiectul 
+
+sa avem pagina home login register cu design etc sa apara credentialele fara verificare
+fara db ca facem data viitoare

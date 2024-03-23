@@ -1,6 +1,6 @@
 <?php 
-  include_once 'lib/styles.html';
   session_start();
+  include_once 'lib/styles.html';
   include_once 'topnav.php';
 ?>
 
